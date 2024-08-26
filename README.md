@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Acknowledgments
 
-- The creators of the BETH dataset.
-- The PyTorch community for providing an amazing deep learning framework.
+- The creators of the  dataset.
+- The ![PyTorch](https://github.com/pytorch) community for providing an amazing deep learning framework.c
